@@ -1,0 +1,652 @@
+{
+  "pepperData": {
+    "pepper1": {
+      "id": 1,
+      "name": "Bell Pepper",
+      "secondaryName": "Sweet Pepper",
+      "stock": 25,
+      "scoville": 0,
+      "color": "Green",
+      "heatLevel": "Mild",
+      "origin": "North America",
+      "uses": [
+        "Salads",
+        "Stir-fries"
+      ],
+      "image": "bell_pepper.webp",
+      "description": "A sweet and crunchy pepper commonly used in various dishes.",
+      "recipes": [
+        "Stuffed Bell Peppers",
+        "Bell Pepper Pasta"
+      ],
+      "nutritionInfo": {
+        "calories": 25,
+        "fiber": 2,
+        "vitamin_a": 30
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "60 days"
+    },
+    "pepper2": {
+      "id": 2,
+      "name": "Jalapeño Pepper",
+      "secondaryName": null,
+      "stock": 20,
+      "scoville": 2500,
+      "color": "Green to red",
+      "heatLevel": "Medium",
+      "origin": "Mexico",
+      "uses": [
+        "Salsas",
+        "Poppers"
+      ],
+      "image": "jalapeño_pepper.webp",
+      "description": "A moderately spicy pepper with a distinct flavor.",
+      "recipes": [
+        "Jalapeño Poppers",
+        "Spicy Salsa"
+      ],
+      "nutritionInfo": {
+        "calories": 5,
+        "fiber": 1,
+        "vitamin_a": 20
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "75 days"
+    },
+    "pepper3": {
+      "id": 3,
+      "name": "Habanero Pepper",
+      "secondaryName": null,
+      "stock": 15,
+      "scoville": 100000,
+      "color": "Orange",
+      "heatLevel": "Hot",
+      "origin": "Caribbean",
+      "uses": [
+        "Hot sauces",
+        "Marinades"
+      ],
+      "image": "habanero_pepper.webp",
+      "description": "One of the hottest peppers with a fruity taste.",
+      "recipes": [
+        "Spicy Habanero Wings",
+        "Habanero Marinade"
+      ],
+      "nutritionInfo": {
+        "calories": 10,
+        "fiber": 1,
+        "vitamin_a": 50
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "90 days"
+    },
+    "pepper4": {
+      "id": 4,
+      "name": "Poblano Pepper",
+      "secondaryName": "Ancho Pepper (when dried)",
+      "stock": 18,
+      "scoville": 1500,
+      "color": "Dark green",
+      "heatLevel": "Mild",
+      "origin": "Mexico",
+      "uses": [
+        "Chiles Rellenos",
+        "Mole"
+      ],
+      "image": "poblano_pepper.webp",
+      "description": "Mild and heart-shaped, often used in Mexican cuisine.",
+      "recipes": [
+        "Poblano Quesadillas",
+        "Mole Poblano"
+      ],
+      "nutritionInfo": {
+        "calories": 15,
+        "fiber": 2,
+        "vitamin_a": 25
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "80 days"
+    },
+    "pepper5": {
+      "id": 5,
+      "name": "Cayenne Pepper",
+      "secondaryName": "Guinea spice",
+      "stock": 22,
+      "scoville": 40000,
+      "color": "Red",
+      "heatLevel": "Medium to Hot",
+      "origin": "French Guiana",
+      "uses": [
+        "Hot sauces",
+        "Dry seasoning"
+      ],
+      "image": "cayenne_pepper.webp",
+      "description": "Adds a kick to dishes with its intense heat.",
+      "recipes": [
+        "Cayenne Hot Wings",
+        "Spicy Stir-fry"
+      ],
+      "nutritionInfo": {
+        "calories": 10,
+        "fiber": 1,
+        "vitamin_a": 35
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "70 days"
+    },
+    "pepper6": {
+      "id": 6,
+      "name": "Serrano Pepper",
+      "secondaryName": null,
+      "stock": 17,
+      "scoville": 15000,
+      "color": "Green to red",
+      "heatLevel": "Hot",
+      "origin": "Mexico",
+      "uses": [
+        "Salsas",
+        "Pico de Gallo"
+      ],
+      "image": "serrano_pepper.webp",
+      "description": "Hotter than jalapeños, great for spicing up dishes.",
+      "recipes": [
+        "Serrano Guacamole",
+        "Spicy Serrano Tacos"
+      ],
+      "nutritionInfo": {
+        "calories": 8,
+        "fiber": 1,
+        "vitamin_a": 22
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "75 days"
+    },
+    "pepper7": {
+      "id": 7,
+      "name": "Anaheim Pepper",
+      "secondaryName": "New Mexico Pepper",
+      "stock": 19,
+      "scoville": 2000,
+      "color": "Green to red",
+      "heatLevel": "Mild to Medium",
+      "origin": "United States",
+      "uses": [
+        "Roasting",
+        "Salsas"
+      ],
+      "image": "anaheim_pepper.webp",
+      "description": "Mild and versatile, often used in Southwestern cuisine.",
+      "recipes": [
+        "Anaheim Enchiladas",
+        "Roasted Pepper Salsa"
+      ],
+      "nutritionInfo": {
+        "calories": 12,
+        "fiber": 2,
+        "vitamin_a": 18
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "85 days"
+    },
+    "pepper8": {
+      "id": 8,
+      "name": "Thai Bird's Eye Pepper",
+      "secondaryName": "Bird Chili",
+      "stock": 25,
+      "scoville": 75000,
+      "color": "Green to red",
+      "heatLevel": "Hot",
+      "origin": "Southeast Asia",
+      "uses": [
+        "Thai cuisine",
+        "Curry pastes"
+      ],
+      "image": "thai_birds_eye_pepper.webp",
+      "description": "Small but fiery, a staple in Thai cooking.",
+      "recipes": [
+        "Spicy Thai Curry",
+        "Bird's Eye Chili Sauce"
+      ],
+      "nutritionInfo": {
+        "calories": 5,
+        "fiber": 1,
+        "vitamin_a": 15
+      },
+      "growingSeason": "Year-round",
+      "harvestTime": "90 days"
+    },
+    "pepper9": {
+      "id": 9,
+      "name": "Ghost Pepper",
+      "secondaryName": "Bhut Jolokia",
+      "stock": 10,
+      "scoville": 1000000,
+      "color": "Red",
+      "heatLevel": "Extremely Hot",
+      "origin": "India",
+      "uses": [
+        "Hot sauces",
+        "Extreme recipes"
+      ],
+      "image": "ghost_pepper.webp",
+      "description": "One of the hottest peppers globally, handle with caution.",
+      "recipes": [
+        "Ghost Pepper Challenge",
+        "Extreme Hot Sauce"
+      ],
+      "nutritionInfo": {
+        "calories": 3,
+        "fiber": 1,
+        "vitamin_a": 10
+      },
+      "growingSeason": "Year-round",
+      "harvestTime": "120 days"
+    },
+    "pepper10": {
+      "id": 10,
+      "name": "Pepperoncini",
+      "secondaryName": "Golden Greek Pepper",
+      "stock": 21,
+      "scoville": 300,
+      "color": "Yellow-green",
+      "heatLevel": "Mild",
+      "origin": "Greece",
+      "uses": [
+        "Pickling",
+        "Salads"
+      ],
+      "image": "pepperoncini_pepper.webp",
+      "description": "Mild and tangy, often pickled for a zesty kick.",
+      "recipes": [
+        "Pickled Pepperoncini",
+        "Greek Salad"
+      ],
+      "nutritionInfo": {
+        "calories": 7,
+        "fiber": 1,
+        "vitamin_a": 25
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "70 days"
+    },
+    "pepper11": {
+      "id": 11,
+      "name": "Cherry Pepper",
+      "secondaryName": "Pimiento",
+      "stock": 23,
+      "scoville": 0,
+      "color": "Red",
+      "heatLevel": "Sweet",
+      "origin": "Spain",
+      "uses": [
+        "Stuffed olives",
+        "Garnish"
+      ],
+      "image": "cherry_pepper.webp",
+      "description": "Sweet and round, commonly used for stuffing.",
+      "recipes": [
+        "Stuffed Cherry Peppers",
+        "Cherry Pepper Garnish"
+      ],
+      "nutritionInfo": {
+        "calories": 8,
+        "fiber": 1,
+        "vitamin_a": 15
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "75 days"
+    },
+    "pepper12": {
+      "id": 12,
+      "name": "Chipotle Pepper",
+      "secondaryName": "Smoked Jalapeño",
+      "stock": 15,
+      "scoville": 5000,
+      "color": "Brown",
+      "heatLevel": "Medium",
+      "origin": "Mexico",
+      "uses": [
+        "BBQ sauces",
+        "Smoky dishes"
+      ],
+      "image": "chipotle_pepper.webp",
+      "description": "Jalapeños smoked and dried, adding a smoky flavor.",
+      "recipes": [
+        "Chipotle BBQ Chicken",
+        "Smoky Chipotle Sauce"
+      ],
+      "nutritionInfo": {
+        "calories": 5,
+        "fiber": 1,
+        "vitamin_a": 20
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "80 days"
+    },
+    "pepper13": {
+      "id": 13,
+      "name": "Cubanelle Pepper",
+      "secondaryName": "Italian Frying Pepper",
+      "stock": 20,
+      "scoville": 800,
+      "color": "Yellow-green",
+      "heatLevel": "Mild",
+      "origin": "Italy",
+      "uses": [
+        "Frying",
+        "Roasting"
+      ],
+      "image": "cubanelle_pepper.webp",
+      "description": "Sweet and mild, ideal for sautéing and frying.",
+      "recipes": [
+        "Sautéed Cubanelle Peppers",
+        "Italian Pepper Medley"
+      ],
+      "nutritionInfo": {
+        "calories": 10,
+        "fiber": 2,
+        "vitamin_a": 30
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "75 days"
+    },
+    "pepper14": {
+      "id": 14,
+      "name": "Shishito Pepper",
+      "secondaryName": null,
+      "stock": 18,
+      "scoville": 100,
+      "color": "Green to red",
+      "heatLevel": "Mild",
+      "origin": "Japan",
+      "uses": [
+        "Pan-frying",
+        "Grilling"
+      ],
+      "image": "shishito_pepper.webp",
+      "description": "Mild and thin-skinned, often enjoyed as a snack.",
+      "recipes": [
+        "Blistered Shishito Peppers",
+        "Grilled Shishito Skewers"
+      ],
+      "nutritionInfo": {
+        "calories": 5,
+        "fiber": 1,
+        "vitamin_a": 15
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "70 days"
+    },
+    "pepper15": {
+      "id": 15,
+      "name": "Peri-Peri Pepper",
+      "secondaryName": "African Bird's Eye Chili",
+      "stock": 25,
+      "scoville": 75000,
+      "color": "Red",
+      "heatLevel": "Hot",
+      "origin": "Africa",
+      "uses": [
+        "Hot sauces",
+        "Marinades"
+      ],
+      "image": "peri-peri_pepper.webp",
+      "description": "Intensely hot with a citrusy flavor.",
+      "recipes": [
+        "Peri-Peri Chicken",
+        "Spicy Marinade"
+      ],
+      "nutritionInfo": {
+        "calories": 5,
+        "fiber": 1,
+        "vitamin_a": 25
+      },
+      "growingSeason": "Year-round",
+      "harvestTime": "80 days"
+    },
+    "pepper16": {
+      "id": 16,
+      "name": "Cascabel Pepper",
+      "secondaryName": "Rattle chili",
+      "stock": 12,
+      "scoville": 2000,
+      "color": "Brown",
+      "heatLevel": "Mild",
+      "origin": "Mexico",
+      "uses": [
+        "Sauces",
+        "Stews"
+      ],
+      "image": "cascabel_pepper.webp",
+      "description": "Mild and nutty, often used in Mexican cooking.",
+      "recipes": [
+        "Cascabel Salsa",
+        "Nutty Cascabel Stew"
+      ],
+      "nutritionInfo": {
+        "calories": 10,
+        "fiber": 2,
+        "vitamin_a": 20
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "85 days"
+    },
+    "pepper17": {
+      "id": 17,
+      "name": "Fresno Pepper",
+      "secondaryName": null,
+      "stock": 22,
+      "scoville": 5000,
+      "color": "Red",
+      "heatLevel": "Medium",
+      "origin": "United States",
+      "uses": [
+        "Salsas",
+        "Hot sauces"
+      ],
+      "image": "fresno_pepper.webp",
+      "description": "Similar to jalapeños but with a slightly fruitier taste.",
+      "recipes": [
+        "Fresno Salsa",
+        "Fresno Hot Sauce"
+      ],
+      "nutritionInfo": {
+        "calories": 8,
+        "fiber": 1,
+        "vitamin_a": 18
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "75 days"
+    },
+    "pepper18": {
+      "id": 18,
+      "name": "Aji Amarillo",
+      "secondaryName": "Yellow Peruvian Chili",
+      "stock": 18,
+      "scoville": 40000,
+      "color": "Yellow",
+      "heatLevel": "Medium to Hot",
+      "origin": "Peru",
+      "uses": [
+        "Peruvian cuisine",
+        "Sauces"
+      ],
+      "image": "aji_amarillo_pepper.webp",
+      "description": "A fruity and spicy pepper integral to Peruvian dishes.",
+      "recipes": [
+        "Aji Amarillo Sauce",
+        "Peruvian Ceviche"
+      ],
+      "nutritionInfo": {
+        "calories": 12,
+        "fiber": 2,
+        "vitamin_a": 25
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "80 days"
+    },
+    "pepper19": {
+      "id": 19,
+      "name": "Aji Panca",
+      "secondaryName": "Peruvian Red Pepper",
+      "stock": 20,
+      "scoville": 3000,
+      "color": "Red",
+      "heatLevel": "Mild to Medium",
+      "origin": "Peru",
+      "uses": [
+        "Peruvian dishes",
+        "Sauces"
+      ],
+      "image": "peruvian_red_pepper.webp",
+      "description": "Mild and fruity Peruvian red pepper, commonly used in Peruvian cuisine.",
+      "recipes": [
+        "Aji Panca Sauce",
+        "Peruvian Roast Chicken"
+      ],
+      "nutritionInfo": {
+        "calories": 15,
+        "fiber": 2,
+        "vitamin_a": 20
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "80 days"
+    },
+    "pepper20": {
+      "id": 20,
+      "name": "Numex Twilight",
+      "secondaryName": null,
+      "stock": 15,
+      "scoville": 30000,
+      "color": "Multicolored",
+      "heatLevel": "Medium to Hot",
+      "origin": "United States",
+      "uses": [
+        "Salsas",
+        "Grilling"
+      ],
+      "image": "numex_twilight_pepper.webp",
+      "description": "Colorful and medium to hot, perfect for adding visual appeal and heat to dishes.",
+      "recipes": [
+        "Twilight Salsa",
+        "Spicy Grilled Vegetables"
+      ],
+      "nutritionInfo": {
+        "calories": 10,
+        "fiber": 1,
+        "vitamin_a": 25
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "75 days"
+    },
+    "pepper21": {
+      "id": 21,
+      "name": "Datil Pepper",
+      "secondaryName": null,
+      "stock": 18,
+      "scoville": 100000,
+      "color": "Yellow",
+      "heatLevel": "Hot",
+      "origin": "United States (Florida)",
+      "uses": [
+        "Hot sauces",
+        "Spicy jellies"
+      ],
+      "image": "datil_pepper.webp",
+      "description": "Hot and fruity, a staple in Florida cuisine for adding a spicy kick.",
+      "recipes": [
+        "Datil Pepper Hot Sauce",
+        "Spicy Datil Jelly"
+      ],
+      "nutritionInfo": {
+        "calories": 8,
+        "fiber": 1,
+        "vitamin_a": 15
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "85 days"
+    },
+    "pepper22": {
+      "id": 22,
+      "name": "Jamaican Scotch Bonnet",
+      "secondaryName": null,
+      "stock": 16,
+      "scoville": 200000,
+      "color": "Orange",
+      "heatLevel": "Hot",
+      "origin": "Jamaica",
+      "uses": [
+        "Caribbean cuisine",
+        "Hot sauces"
+      ],
+      "image": "jamaican_scotch_bonnet_pepper.webp",
+      "description": "Hot and fruity, a key ingredient in Jamaican jerk seasoning and sauces.",
+      "recipes": [
+        "Jerk Chicken with Scotch Bonnet Sauce",
+        "Spicy Caribbean Rice"
+      ],
+      "nutritionInfo": {
+        "calories": 10,
+        "fiber": 1,
+        "vitamin_a": 30
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "90 days"
+    },
+    "pepper23": {
+      "id": 23,
+      "name": "Green Thai Chili",
+      "secondaryName": null,
+      "stock": 20,
+      "scoville": 50000,
+      "color": "Green",
+      "heatLevel": "Hot",
+      "origin": "Thailand",
+      "uses": [
+        "Thai cuisine",
+        "Curries"
+      ],
+      "image": "green_thai_chili_pepper.webp",
+      "description": "Small but fiery, a staple in Thai cooking for intense heat.",
+      "recipes": [
+        "Spicy Thai Green Curry",
+        "Green Chili Pad Thai"
+      ],
+      "nutritionInfo": {
+        "calories": 5,
+        "fiber": 1,
+        "vitamin_a": 20
+      },
+      "growingSeason": "Year-round",
+      "harvestTime": "80 days"
+    },
+    "pepper24": {
+      "id": 24,
+      "name": "Peppadew Pepper",
+      "secondaryName": null,
+      "stock": 22,
+      "scoville": 1500,
+      "color": "Red",
+      "heatLevel": "Mild",
+      "origin": "South Africa",
+      "uses": [
+        "Pickling",
+        "Salads"
+      ],
+      "image": "peppadew_pepper.webp",
+      "description": "Sweet and mildly spicy, popular for pickling and adding a zing to salads.",
+      "recipes": [
+        "Pickled Peppadew Peppers",
+        "Peppadew Pepper Salad"
+      ],
+      "nutritionInfo": {
+        "calories": 10,
+        "fiber": 1,
+        "vitamin_a": 15
+      },
+      "growingSeason": "Summer",
+      "harvestTime": "70 days"
+    }
+  }
+}

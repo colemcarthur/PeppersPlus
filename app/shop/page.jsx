@@ -5,6 +5,8 @@ export default async function Home() {
   const payload = await getPeppers()
   const peppers = Object.values(payload)
 
+  peppers.sort((a, b) => b.scoville - a.scoville);
+
   return (
     <main>
       <div className="top-0 left-0 w-full h-full flex justify-center bg-cover bg-center">

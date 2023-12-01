@@ -26,7 +26,7 @@ function PepperCard({ id, name, secondaryName, image, description, scoville, sto
           </div>
         </div>
       </div>
-      <button className='m-4 bg-red-800 text-stone-100 font-bold p-2 rounded-3xl w-[8rem] text-sm uppercase'>Add To Cart</button>
+      <button className='m-4 bg-red-800 text-stone-100 font-bold p-2 rounded-3xl w-[8rem] text-sm uppercase shadow-sm shadow-black'>Add To Cart</button>
     </div>
   )
 }

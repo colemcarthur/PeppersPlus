@@ -3,6 +3,7 @@
     "pepper1": {
       "id": 1,
       "name": "Bell Pepper",
+      "price": 1.50,
       "secondaryName": "Sweet Pepper",
       "stock": 25,
       "scoville": 0,
@@ -30,6 +31,7 @@
     "pepper2": {
       "id": 2,
       "name": "Jalapeño Pepper",
+      "price": 2.00,
       "secondaryName": null,
       "stock": 20,
       "scoville": 2500,
@@ -57,6 +59,7 @@
     "pepper3": {
       "id": 3,
       "name": "Habanero Pepper",
+      "price": 2.50,
       "secondaryName": null,
       "stock": 15,
       "scoville": 100000,
@@ -84,6 +87,7 @@
     "pepper4": {
       "id": 4,
       "name": "Poblano Pepper",
+      "price": 2.20,
       "secondaryName": "Ancho Pepper (when dried)",
       "stock": 18,
       "scoville": 1500,
@@ -111,6 +115,7 @@
     "pepper5": {
       "id": 5,
       "name": "Cayenne Pepper",
+      "price": 1.80,
       "secondaryName": "Guinea spice",
       "stock": 22,
       "scoville": 40000,
@@ -138,6 +143,7 @@
     "pepper6": {
       "id": 6,
       "name": "Serrano Pepper",
+      "price": 2.30,
       "secondaryName": null,
       "stock": 17,
       "scoville": 15000,
@@ -165,6 +171,7 @@
     "pepper7": {
       "id": 7,
       "name": "Anaheim Pepper",
+      "price": 2.10,
       "secondaryName": "New Mexico Pepper",
       "stock": 19,
       "scoville": 2000,
@@ -192,6 +199,7 @@
     "pepper8": {
       "id": 8,
       "name": "Thai Bird's Eye Pepper",
+      "price": 2.80,
       "secondaryName": "Bird Chili",
       "stock": 25,
       "scoville": 75000,
@@ -219,6 +227,7 @@
     "pepper9": {
       "id": 9,
       "name": "Ghost Pepper",
+      "price": 3.50,
       "secondaryName": "Bhut Jolokia",
       "stock": 10,
       "scoville": 1000000,
@@ -246,6 +255,7 @@
     "pepper10": {
       "id": 10,
       "name": "Pepperoncini",
+      "price": 1.70,
       "secondaryName": "Golden Greek Pepper",
       "stock": 21,
       "scoville": 300,
@@ -273,6 +283,7 @@
     "pepper11": {
       "id": 11,
       "name": "Cherry Pepper",
+      "price": 1.90,
       "secondaryName": "Pimiento",
       "stock": 23,
       "scoville": 0,
@@ -300,6 +311,7 @@
     "pepper12": {
       "id": 12,
       "name": "Chipotle Pepper",
+      "price": 2.40,
       "secondaryName": "Smoked Jalapeño",
       "stock": 15,
       "scoville": 5000,
@@ -327,6 +339,7 @@
     "pepper13": {
       "id": 13,
       "name": "Cubanelle Pepper",
+      "price": 1.60,
       "secondaryName": "Italian Frying Pepper",
       "stock": 20,
       "scoville": 800,
@@ -354,6 +367,7 @@
     "pepper14": {
       "id": 14,
       "name": "Shishito Pepper",
+      "price": 1.75,
       "secondaryName": null,
       "stock": 18,
       "scoville": 100,
@@ -381,6 +395,7 @@
     "pepper15": {
       "id": 15,
       "name": "Peri-Peri Pepper",
+      "price": 2.00,
       "secondaryName": "African Bird's Eye Chili",
       "stock": 25,
       "scoville": 75000,
@@ -408,6 +423,7 @@
     "pepper16": {
       "id": 16,
       "name": "Cascabel Pepper",
+      "price": 1.75,
       "secondaryName": "Rattle chili",
       "stock": 12,
       "scoville": 2000,
@@ -435,6 +451,7 @@
     "pepper17": {
       "id": 17,
       "name": "Fresno Pepper",
+      "price": 1.90,
       "secondaryName": null,
       "stock": 22,
       "scoville": 5000,
@@ -462,6 +479,7 @@
     "pepper18": {
       "id": 18,
       "name": "Aji Amarillo",
+      "price": 2.20,
       "secondaryName": "Yellow Peruvian Chili",
       "stock": 18,
       "scoville": 40000,
@@ -489,6 +507,7 @@
     "pepper19": {
       "id": 19,
       "name": "Aji Panca",
+      "price": 1.80,
       "secondaryName": "Peruvian Red Pepper",
       "stock": 20,
       "scoville": 3000,
@@ -516,6 +535,7 @@
     "pepper20": {
       "id": 20,
       "name": "Numex Twilight",
+      "price": 2.10,
       "secondaryName": null,
       "stock": 15,
       "scoville": 30000,
@@ -543,6 +563,7 @@
     "pepper21": {
       "id": 21,
       "name": "Datil Pepper",
+      "price": 2.15,
       "secondaryName": null,
       "stock": 18,
       "scoville": 100000,
@@ -570,6 +591,7 @@
     "pepper22": {
       "id": 22,
       "name": "Jamaican Scotch Bonnet",
+      "price": 2.25,
       "secondaryName": null,
       "stock": 16,
       "scoville": 200000,
@@ -597,6 +619,7 @@
     "pepper23": {
       "id": 23,
       "name": "Green Thai Chili",
+      "price": 2.05,
       "secondaryName": null,
       "stock": 20,
       "scoville": 50000,
@@ -624,6 +647,7 @@
     "pepper24": {
       "id": 24,
       "name": "Peppadew Pepper",
+      "price": 1.95,
       "secondaryName": null,
       "stock": 22,
       "scoville": 1500,

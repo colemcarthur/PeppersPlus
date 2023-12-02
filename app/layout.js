@@ -14,7 +14,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={cn(inter.className, 'bg-stone-600')}>
+      <body suppressHydrationWarning={true} className={cn(inter.className, 'bg-stone-600')}>
         <Navigation/>
         {children}
         <Footer>Created By Cole McArthur For DMIT 2008 | <span className='font-thin'>For Educational Purposes Only</span></Footer>

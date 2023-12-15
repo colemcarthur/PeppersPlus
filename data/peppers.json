@@ -3,23 +3,18 @@
     "pepper1": {
       "id": 1,
       "name": "Bell Pepper",
-      "price": 1.50,
+      "price": 1.5,
+      "priceID": "price_1ONRuwCSqN3NA0CpD3cnTMWY",
       "secondaryName": "Sweet Pepper",
       "stock": 25,
       "scoville": 0,
       "color": "Green",
       "heatLevel": "Mild",
       "origin": "North America",
-      "uses": [
-        "Salads",
-        "Stir-fries"
-      ],
+      "uses": ["Salads", "Stir-fries"],
       "image": "bell_pepper.webp",
       "description": "A sweet and crunchy pepper commonly used in various dishes.",
-      "recipes": [
-        "Stuffed Bell Peppers",
-        "Bell Pepper Pasta"
-      ],
+      "recipes": ["Stuffed Bell Peppers", "Bell Pepper Pasta"],
       "nutritionInfo": {
         "calories": 25,
         "fiber": 2,
@@ -31,23 +26,18 @@
     "pepper2": {
       "id": 2,
       "name": "Jalapeño Pepper",
-      "price": 2.00,
+      "price": 2.0,
+      "priceID": "price_1ONRqxCSqN3NA0Cpmp7lgX5S",
       "secondaryName": null,
       "stock": 20,
       "scoville": 2500,
       "color": "Green to red",
       "heatLevel": "Medium",
       "origin": "Mexico",
-      "uses": [
-        "Salsas",
-        "Poppers"
-      ],
+      "uses": ["Salsas", "Poppers"],
       "image": "jalapeño_pepper.webp",
       "description": "A moderately spicy pepper with a distinct flavor.",
-      "recipes": [
-        "Jalapeño Poppers",
-        "Spicy Salsa"
-      ],
+      "recipes": ["Jalapeño Poppers", "Spicy Salsa"],
       "nutritionInfo": {
         "calories": 5,
         "fiber": 1,
@@ -59,23 +49,18 @@
     "pepper3": {
       "id": 3,
       "name": "Habanero Pepper",
-      "price": 2.50,
+      "price": 2.5,
+      "priceID": "price_1ONRleCSqN3NA0CpF0z9U7Nf",
       "secondaryName": null,
       "stock": 15,
       "scoville": 100000,
       "color": "Orange",
       "heatLevel": "Hot",
       "origin": "Caribbean",
-      "uses": [
-        "Hot sauces",
-        "Marinades"
-      ],
+      "uses": ["Hot sauces", "Marinades"],
       "image": "habanero_pepper.webp",
       "description": "One of the hottest peppers with a fruity taste.",
-      "recipes": [
-        "Spicy Habanero Wings",
-        "Habanero Marinade"
-      ],
+      "recipes": ["Spicy Habanero Wings", "Habanero Marinade"],
       "nutritionInfo": {
         "calories": 10,
         "fiber": 1,
@@ -87,23 +72,18 @@
     "pepper4": {
       "id": 4,
       "name": "Poblano Pepper",
-      "price": 2.20,
+      "price": 2.2,
+      "priceID": "price_1ONRsjCSqN3NA0CpYMmPmOIE",
       "secondaryName": "Ancho Pepper (when dried)",
       "stock": 18,
       "scoville": 1500,
       "color": "Dark green",
       "heatLevel": "Mild",
       "origin": "Mexico",
-      "uses": [
-        "Chiles Rellenos",
-        "Mole"
-      ],
+      "uses": ["Chiles Rellenos", "Mole"],
       "image": "poblano_pepper.webp",
       "description": "Mild and heart-shaped, often used in Mexican cuisine.",
-      "recipes": [
-        "Poblano Quesadillas",
-        "Mole Poblano"
-      ],
+      "recipes": ["Poblano Quesadillas", "Mole Poblano"],
       "nutritionInfo": {
         "calories": 15,
         "fiber": 2,
@@ -115,23 +95,18 @@
     "pepper5": {
       "id": 5,
       "name": "Cayenne Pepper",
-      "price": 1.80,
+      "price": 1.8,
+      "priceID": "price_1ONRo7CSqN3NA0CpuBmRQpNb",
       "secondaryName": "Guinea spice",
       "stock": 22,
       "scoville": 40000,
       "color": "Red",
       "heatLevel": "Medium to Hot",
       "origin": "French Guiana",
-      "uses": [
-        "Hot sauces",
-        "Dry seasoning"
-      ],
+      "uses": ["Hot sauces", "Dry seasoning"],
       "image": "cayenne_pepper.webp",
       "description": "Adds a kick to dishes with its intense heat.",
-      "recipes": [
-        "Cayenne Hot Wings",
-        "Spicy Stir-fry"
-      ],
+      "recipes": ["Cayenne Hot Wings", "Spicy Stir-fry"],
       "nutritionInfo": {
         "calories": 10,
         "fiber": 1,
@@ -143,23 +118,18 @@
     "pepper6": {
       "id": 6,
       "name": "Serrano Pepper",
-      "price": 2.30,
+      "price": 2.3,
+      "priceID": "price_1ONRpPCSqN3NA0CpUl2wdzRA",
       "secondaryName": null,
       "stock": 17,
       "scoville": 15000,
       "color": "Green to red",
       "heatLevel": "Hot",
       "origin": "Mexico",
-      "uses": [
-        "Salsas",
-        "Pico de Gallo"
-      ],
+      "uses": ["Salsas", "Pico de Gallo"],
       "image": "serrano_pepper.webp",
       "description": "Hotter than jalapeños, great for spicing up dishes.",
-      "recipes": [
-        "Serrano Guacamole",
-        "Spicy Serrano Tacos"
-      ],
+      "recipes": ["Serrano Guacamole", "Spicy Serrano Tacos"],
       "nutritionInfo": {
         "calories": 8,
         "fiber": 1,
@@ -171,23 +141,18 @@
     "pepper7": {
       "id": 7,
       "name": "Anaheim Pepper",
-      "price": 2.10,
+      "price": 2.1,
+      "priceID": "price_1ONRs0CSqN3NA0CpZHq3jFjP",
       "secondaryName": "New Mexico Pepper",
       "stock": 19,
       "scoville": 2000,
       "color": "Green to red",
       "heatLevel": "Mild to Medium",
       "origin": "United States",
-      "uses": [
-        "Roasting",
-        "Salsas"
-      ],
+      "uses": ["Roasting", "Salsas"],
       "image": "anaheim_pepper.webp",
       "description": "Mild and versatile, often used in Southwestern cuisine.",
-      "recipes": [
-        "Anaheim Enchiladas",
-        "Roasted Pepper Salsa"
-      ],
+      "recipes": ["Anaheim Enchiladas", "Roasted Pepper Salsa"],
       "nutritionInfo": {
         "calories": 12,
         "fiber": 2,
@@ -199,23 +164,18 @@
     "pepper8": {
       "id": 8,
       "name": "Thai Bird's Eye Pepper",
-      "price": 2.80,
+      "price": 2.8,
+      "priceID": "price_1ONRmdCSqN3NA0Cpfcd0lxv7",
       "secondaryName": "Bird Chili",
       "stock": 25,
       "scoville": 75000,
       "color": "Green to red",
       "heatLevel": "Hot",
       "origin": "Southeast Asia",
-      "uses": [
-        "Thai cuisine",
-        "Curry pastes"
-      ],
+      "uses": ["Thai cuisine", "Curry pastes"],
       "image": "thai_birds_eye_pepper.webp",
       "description": "Small but fiery, a staple in Thai cooking.",
-      "recipes": [
-        "Spicy Thai Curry",
-        "Bird's Eye Chili Sauce"
-      ],
+      "recipes": ["Spicy Thai Curry", "Bird's Eye Chili Sauce"],
       "nutritionInfo": {
         "calories": 5,
         "fiber": 1,
@@ -227,23 +187,18 @@
     "pepper9": {
       "id": 9,
       "name": "Ghost Pepper",
-      "price": 3.50,
+      "price": 3.5,
+      "priceID": "price_1ONRj9CSqN3NA0CpSm1aBjhE",
       "secondaryName": "Bhut Jolokia",
       "stock": 10,
       "scoville": 1000000,
       "color": "Red",
       "heatLevel": "Extremely Hot",
       "origin": "India",
-      "uses": [
-        "Hot sauces",
-        "Extreme recipes"
-      ],
+      "uses": ["Hot sauces", "Extreme recipes"],
       "image": "ghost_pepper.webp",
       "description": "One of the hottest peppers globally, handle with caution.",
-      "recipes": [
-        "Ghost Pepper Challenge",
-        "Extreme Hot Sauce"
-      ],
+      "recipes": ["Ghost Pepper Chicken Burger", "Extreme Hot Sauce"],
       "nutritionInfo": {
         "calories": 3,
         "fiber": 1,
@@ -255,23 +210,18 @@
     "pepper10": {
       "id": 10,
       "name": "Pepperoncini",
-      "price": 1.70,
+      "price": 1.7,
+      "priceID": "price_1ONRtpCSqN3NA0CpbC0S5YNi",
       "secondaryName": "Golden Greek Pepper",
       "stock": 21,
       "scoville": 300,
       "color": "Yellow-green",
       "heatLevel": "Mild",
       "origin": "Greece",
-      "uses": [
-        "Pickling",
-        "Salads"
-      ],
+      "uses": ["Pickling", "Salads"],
       "image": "pepperoncini_pepper.webp",
       "description": "Mild and tangy, often pickled for a zesty kick.",
-      "recipes": [
-        "Pickled Pepperoncini",
-        "Greek Salad"
-      ],
+      "recipes": ["Pickled Pepperoncini", "Greek Salad"],
       "nutritionInfo": {
         "calories": 7,
         "fiber": 1,
@@ -283,23 +233,18 @@
     "pepper11": {
       "id": 11,
       "name": "Cherry Pepper",
-      "price": 1.90,
+      "price": 1.9,
+      "priceID": "price_1ONRvECSqN3NA0CprlUBDS2G",
       "secondaryName": "Pimiento",
       "stock": 23,
       "scoville": 0,
       "color": "Red",
       "heatLevel": "Sweet",
       "origin": "Spain",
-      "uses": [
-        "Stuffed olives",
-        "Garnish"
-      ],
+      "uses": ["Stuffed olives", "Garnish"],
       "image": "cherry_pepper.webp",
       "description": "Sweet and round, commonly used for stuffing.",
-      "recipes": [
-        "Stuffed Cherry Peppers",
-        "Cherry Pepper Garnish"
-      ],
+      "recipes": ["Stuffed Cherry Peppers", "Cherry Pepper Garnish"],
       "nutritionInfo": {
         "calories": 8,
         "fiber": 1,
@@ -311,23 +256,18 @@
     "pepper12": {
       "id": 12,
       "name": "Chipotle Pepper",
-      "price": 2.40,
+      "price": 2.4,
+      "priceID": "price_1ONRprCSqN3NA0CpFesi4QRY",
       "secondaryName": "Smoked Jalapeño",
       "stock": 15,
       "scoville": 5000,
       "color": "Brown",
       "heatLevel": "Medium",
       "origin": "Mexico",
-      "uses": [
-        "BBQ sauces",
-        "Smoky dishes"
-      ],
+      "uses": ["BBQ sauces", "Smoky dishes"],
       "image": "chipotle_pepper.webp",
       "description": "Jalapeños smoked and dried, adding a smoky flavor.",
-      "recipes": [
-        "Chipotle BBQ Chicken",
-        "Smoky Chipotle Sauce"
-      ],
+      "recipes": ["Chipotle BBQ Chicken", "Smoky Chipotle Sauce"],
       "nutritionInfo": {
         "calories": 5,
         "fiber": 1,
@@ -339,23 +279,18 @@
     "pepper13": {
       "id": 13,
       "name": "Cubanelle Pepper",
-      "price": 1.60,
+      "price": 1.6,
+      "priceID": "price_1ONRtOCSqN3NA0CpHjWmrfVG",
       "secondaryName": "Italian Frying Pepper",
       "stock": 20,
       "scoville": 800,
       "color": "Yellow-green",
       "heatLevel": "Mild",
       "origin": "Italy",
-      "uses": [
-        "Frying",
-        "Roasting"
-      ],
+      "uses": ["Frying", "Roasting"],
       "image": "cubanelle_pepper.webp",
       "description": "Sweet and mild, ideal for sautéing and frying.",
-      "recipes": [
-        "Sautéed Cubanelle Peppers",
-        "Italian Pepper Medley"
-      ],
+      "recipes": ["Sautéed Cubanelle Peppers", "Italian Pepper Medley"],
       "nutritionInfo": {
         "calories": 10,
         "fiber": 2,
@@ -368,22 +303,17 @@
       "id": 14,
       "name": "Shishito Pepper",
       "price": 1.75,
+      "priceID": "price_1ONRuGCSqN3NA0CpICaNbn8G",
       "secondaryName": null,
       "stock": 18,
       "scoville": 100,
       "color": "Green to red",
       "heatLevel": "Mild",
       "origin": "Japan",
-      "uses": [
-        "Pan-frying",
-        "Grilling"
-      ],
+      "uses": ["Pan-frying", "Grilling"],
       "image": "shishito_pepper.webp",
       "description": "Mild and thin-skinned, often enjoyed as a snack.",
-      "recipes": [
-        "Blistered Shishito Peppers",
-        "Grilled Shishito Skewers"
-      ],
+      "recipes": ["Blistered Shishito Peppers", "Grilled Shishito Skewers"],
       "nutritionInfo": {
         "calories": 5,
         "fiber": 1,
@@ -395,23 +325,18 @@
     "pepper15": {
       "id": 15,
       "name": "Peri-Peri Pepper",
-      "price": 2.00,
+      "price": 2.0,
+      "priceID": "price_1ONRmJCSqN3NA0CpIFmGaS0B",
       "secondaryName": "African Bird's Eye Chili",
       "stock": 25,
       "scoville": 75000,
       "color": "Red",
       "heatLevel": "Hot",
       "origin": "Africa",
-      "uses": [
-        "Hot sauces",
-        "Marinades"
-      ],
+      "uses": ["Hot sauces", "Marinades"],
       "image": "peri-peri_pepper.webp",
       "description": "Intensely hot with a citrusy flavor.",
-      "recipes": [
-        "Peri-Peri Chicken",
-        "Spicy Marinade"
-      ],
+      "recipes": ["Peri-Peri Chicken", "Spicy Marinade"],
       "nutritionInfo": {
         "calories": 5,
         "fiber": 1,
@@ -424,22 +349,17 @@
       "id": 16,
       "name": "Cascabel Pepper",
       "price": 1.75,
+      "priceID": "price_1ONRrMCSqN3NA0CpHjHqK5B3",
       "secondaryName": "Rattle chili",
       "stock": 12,
       "scoville": 2000,
       "color": "Brown",
       "heatLevel": "Mild",
       "origin": "Mexico",
-      "uses": [
-        "Sauces",
-        "Stews"
-      ],
+      "uses": ["Sauces", "Stews"],
       "image": "cascabel_pepper.webp",
       "description": "Mild and nutty, often used in Mexican cooking.",
-      "recipes": [
-        "Cascabel Salsa",
-        "Nutty Cascabel Stew"
-      ],
+      "recipes": ["Cascabel Salsa", "Nutty Cascabel Stew"],
       "nutritionInfo": {
         "calories": 10,
         "fiber": 2,
@@ -451,23 +371,18 @@
     "pepper17": {
       "id": 17,
       "name": "Fresno Pepper",
-      "price": 1.90,
+      "price": 1.9,
+      "priceID": "price_1ONRq9CSqN3NA0CpWK0IAFt2",
       "secondaryName": null,
       "stock": 22,
       "scoville": 5000,
       "color": "Red",
       "heatLevel": "Medium",
       "origin": "United States",
-      "uses": [
-        "Salsas",
-        "Hot sauces"
-      ],
+      "uses": ["Salsas", "Hot sauces"],
       "image": "fresno_pepper.webp",
       "description": "Similar to jalapeños but with a slightly fruitier taste.",
-      "recipes": [
-        "Fresno Salsa",
-        "Fresno Hot Sauce"
-      ],
+      "recipes": ["Fresno Salsa", "Fresno Hot Sauce"],
       "nutritionInfo": {
         "calories": 8,
         "fiber": 1,
@@ -479,23 +394,18 @@
     "pepper18": {
       "id": 18,
       "name": "Aji Amarillo",
-      "price": 2.20,
+      "price": 2.2,
+      "priceID": "price_1ONRnrCSqN3NA0CpQv5HKVQj",
       "secondaryName": "Yellow Peruvian Chili",
       "stock": 18,
       "scoville": 40000,
       "color": "Yellow",
       "heatLevel": "Medium to Hot",
       "origin": "Peru",
-      "uses": [
-        "Peruvian cuisine",
-        "Sauces"
-      ],
+      "uses": ["Peruvian cuisine", "Sauces"],
       "image": "aji_amarillo_pepper.webp",
       "description": "A fruity and spicy pepper integral to Peruvian dishes.",
-      "recipes": [
-        "Aji Amarillo Sauce",
-        "Peruvian Ceviche"
-      ],
+      "recipes": ["Aji Amarillo Sauce", "Peruvian Ceviche"],
       "nutritionInfo": {
         "calories": 12,
         "fiber": 2,
@@ -507,23 +417,18 @@
     "pepper19": {
       "id": 19,
       "name": "Aji Panca",
-      "price": 1.80,
+      "price": 1.8,
+      "priceID": "price_1ONRqVCSqN3NA0Cpkn6CR9a6",
       "secondaryName": "Peruvian Red Pepper",
       "stock": 20,
       "scoville": 3000,
       "color": "Red",
       "heatLevel": "Mild to Medium",
       "origin": "Peru",
-      "uses": [
-        "Peruvian dishes",
-        "Sauces"
-      ],
+      "uses": ["Peruvian dishes", "Sauces"],
       "image": "peruvian_red_pepper.webp",
       "description": "Mild and fruity Peruvian red pepper, commonly used in Peruvian cuisine.",
-      "recipes": [
-        "Aji Panca Sauce",
-        "Peruvian Roast Chicken"
-      ],
+      "recipes": ["Aji Panca Sauce", "Peruvian Roast Chicken"],
       "nutritionInfo": {
         "calories": 15,
         "fiber": 2,
@@ -535,23 +440,18 @@
     "pepper20": {
       "id": 20,
       "name": "Numex Twilight",
-      "price": 2.10,
+      "price": 2.1,
+      "priceID": "price_1ONRowCSqN3NA0Cp9AbeUJ4r",
       "secondaryName": null,
       "stock": 15,
       "scoville": 30000,
       "color": "Multicolored",
       "heatLevel": "Medium to Hot",
       "origin": "United States",
-      "uses": [
-        "Salsas",
-        "Grilling"
-      ],
+      "uses": ["Salsas", "Grilling"],
       "image": "numex_twilight_pepper.webp",
       "description": "Colorful and medium to hot, perfect for adding visual appeal and heat to dishes.",
-      "recipes": [
-        "Twilight Salsa",
-        "Spicy Grilled Vegetables"
-      ],
+      "recipes": ["Twilight Salsa", "Spicy Grilled Vegetables"],
       "nutritionInfo": {
         "calories": 10,
         "fiber": 1,
@@ -564,22 +464,17 @@
       "id": 21,
       "name": "Datil Pepper",
       "price": 2.15,
+      "priceID": "price_1ONRkkCSqN3NA0CpfxinqReG",
       "secondaryName": null,
       "stock": 18,
       "scoville": 100000,
       "color": "Yellow",
       "heatLevel": "Hot",
       "origin": "United States (Florida)",
-      "uses": [
-        "Hot sauces",
-        "Spicy jellies"
-      ],
+      "uses": ["Hot sauces", "Spicy jellies"],
       "image": "datil_pepper.webp",
       "description": "Hot and fruity, a staple in Florida cuisine for adding a spicy kick.",
-      "recipes": [
-        "Datil Pepper Hot Sauce",
-        "Spicy Datil Jelly"
-      ],
+      "recipes": ["Datil Pepper Hot Sauce", "Spicy Datil Jelly"],
       "nutritionInfo": {
         "calories": 8,
         "fiber": 1,
@@ -592,16 +487,14 @@
       "id": 22,
       "name": "Jamaican Scotch Bonnet",
       "price": 2.25,
+      "priceID": "price_1ONRkICSqN3NA0CplDnXOdCA",
       "secondaryName": null,
       "stock": 16,
       "scoville": 200000,
       "color": "Orange",
       "heatLevel": "Hot",
       "origin": "Jamaica",
-      "uses": [
-        "Caribbean cuisine",
-        "Hot sauces"
-      ],
+      "uses": ["Caribbean cuisine", "Hot sauces"],
       "image": "jamaican_scotch_bonnet_pepper.webp",
       "description": "Hot and fruity, a key ingredient in Jamaican jerk seasoning and sauces.",
       "recipes": [
@@ -620,22 +513,17 @@
       "id": 23,
       "name": "Green Thai Chili",
       "price": 2.05,
+      "priceID": "price_1ONRnRCSqN3NA0CpXQZbKnaE",
       "secondaryName": null,
       "stock": 20,
       "scoville": 50000,
       "color": "Green",
       "heatLevel": "Hot",
       "origin": "Thailand",
-      "uses": [
-        "Thai cuisine",
-        "Curries"
-      ],
+      "uses": ["Thai cuisine", "Curries"],
       "image": "green_thai_chili_pepper.webp",
       "description": "Small but fiery, a staple in Thai cooking for intense heat.",
-      "recipes": [
-        "Spicy Thai Green Curry",
-        "Green Chili Pad Thai"
-      ],
+      "recipes": ["Spicy Thai Green Curry", "Green Chili Pad Thai"],
       "nutritionInfo": {
         "calories": 5,
         "fiber": 1,
@@ -648,22 +536,17 @@
       "id": 24,
       "name": "Peppadew Pepper",
       "price": 1.95,
+      "priceID": "price_1ONRsICSqN3NA0CpkUmxz8T2",
       "secondaryName": null,
       "stock": 22,
       "scoville": 1500,
       "color": "Red",
       "heatLevel": "Mild",
       "origin": "South Africa",
-      "uses": [
-        "Pickling",
-        "Salads"
-      ],
+      "uses": ["Pickling", "Salads"],
       "image": "peppadew_pepper.webp",
       "description": "Sweet and mildly spicy, popular for pickling and adding a zing to salads.",
-      "recipes": [
-        "Pickled Peppadew Peppers",
-        "Peppadew Pepper Salad"
-      ],
+      "recipes": ["Pickled Peppadew Peppers", "Peppadew Pepper Salad"],
       "nutritionInfo": {
         "calories": 10,
         "fiber": 1,
